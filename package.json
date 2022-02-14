@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team-Pprofile-Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JClair21/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "Team-Profile-generator"
+  ],
+  "author": "Jessica St. Clair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JClair21/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/JClair21/Team-Profile-Generator#readme"
+  }
+  }
